@@ -10,8 +10,8 @@ The online version of Harvard's famous CS50 course for introductory computer sci
 5. Spell-checking algorithms using a hash table
 6. Versions of Mario, Cash, Credit, and Readability in Python, and a DNA short tandem repeat analysis algorithm
 7. Use of SQL queries (Movies) and databases for sorting (Houses)
- 8.a. Basic app design (Pokedex, Fiftygram, Notes) in Java (note: the Swift counterpart is not included since it requires a Mac and Xcode)
-8.b. Basic game design in Lua using the LOVE engine (Pong and Mario)
-8.c. Basic web design (Homepage and Finance)
+8. a. Basic app design (Pokedex, Fiftygram, Notes) in Java (note: the Swift counterpart is not included since it requires a Mac and Xcode)
+8. b. Basic game design in Lua using the LOVE engine (Pong and Mario)
+8. c. Basic web design (Homepage and Finance)
 
 More information on the requirements for each problem set can be found at https://cs50.harvard.edu/x/2020/. 
